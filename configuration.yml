@@ -1,0 +1,5 @@
+cacheMaxSize: 500000
+logging:
+  level: INFO
+  loggers:
+    io.dropwizard: INFO
